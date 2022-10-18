@@ -1,4 +1,4 @@
-# OpenCore-ASUS-TUF-Gaming-B450M-Pro-S。
+# OpenCore-ASUS-TUF-Gaming-B450M-Pro-S  
 OpenCore：0.7.8  
 cpu：3700x  
 主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
