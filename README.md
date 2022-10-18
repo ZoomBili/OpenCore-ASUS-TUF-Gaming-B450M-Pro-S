@@ -1,5 +1,5 @@
 # OpenCore-ASUS-TUF-Gaming-B450M-Pro-S  
-OpenCore：0.7.8  
+OpenCore：0.8.5  
 cpu：3700x  
 主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
 显卡：蓝宝石hd7850_2g（免驱）  
