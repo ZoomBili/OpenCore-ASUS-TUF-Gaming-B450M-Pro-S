@@ -6,7 +6,7 @@ cpu：3700x
 固态：铠侠rc20  
 声卡：主板内置  
 网卡：intel wifi6 ax200 160MHz  
-仿冒机型：iMac Pro（2017）  
+仿冒机型：iMacPro1,1  
 
 使用情况：  
 wifi、蓝牙正常、完美睡眠、唤醒、未做usb定制、目前未见有bug  
