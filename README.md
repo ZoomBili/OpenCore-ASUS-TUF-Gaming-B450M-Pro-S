@@ -12,6 +12,7 @@ cpu：3700x
 
 
 #2023.12.23更新ventura 
+
 OpenCore：0.9.1  
 cpu：3700x  
 主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
@@ -26,6 +27,7 @@ Ventura_EFI链接: 链接: https://pan.baidu.com/s/1bM0nDtE68hPaguWa6qSaDQ?pwd=v
 
 
 #2023.12.24更新sonoma 
+
 OpenCore：0.9.7  
 cpu：3700x  
 主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
