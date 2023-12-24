@@ -1,4 +1,4 @@
-# OpenCore-ASUS-TUF-Gaming-B450M-Pro-S  
+#2022.12.23更新Monterey  
 OpenCore：0.8.5  
 cpu：3700x  
 主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
@@ -9,6 +9,7 @@ cpu：3700x
 仿冒机型：iMacPro1,1  
 系统: Monterey 12.3.1  
 使用情况:wifi、蓝牙正常、完美睡眠、唤醒、未做usb定制、目前未见有bug  
+EFI链接: 详见code  
 
 
 #2023.12.23更新ventura  
