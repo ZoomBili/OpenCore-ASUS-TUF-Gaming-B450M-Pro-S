@@ -1,4 +1,4 @@
-#2022.12.23更新Monterey  
+##2022.12.23更新Monterey  
 OpenCore：0.8.5  
 cpu：3700x  
 主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
@@ -12,7 +12,7 @@ cpu：3700x
 EFI链接: 详见code  
 
 
-#2023.12.23更新ventura  
+##2023.12.23更新ventura  
 OpenCore：0.9.1  
 cpu：3700x  
 主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
@@ -26,7 +26,7 @@ cpu：3700x
 Ventura_EFI链接: 链接: https://pan.baidu.com/s/1bM0nDtE68hPaguWa6qSaDQ?pwd=vc7v 提取码: vc7v  
 
 
-#2023.12.24更新sonoma  
+##2023.12.24更新sonoma  
 OpenCore：0.9.7  
 cpu：3700x  
 主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
