@@ -37,4 +37,17 @@ cpu：3700x
 仿冒机型：iMacPro1,1  
 系统: Sonoma 14.2  
 使用情况: wifi、蓝牙正常、完美睡眠、唤醒、未做usb定制; 已知bug: 地图定位不可用  
-Sonoma_EFI链接: https://pan.baidu.com/s/1Ez1nYYohj0W1ICG1mNoYPQ?pwd=7e5p 提取码: 7e5p  
+Sonoma_EFI链接: https://pan.baidu.com/s/1Ez1nYYohj0W1ICG1mNoYPQ?pwd=7e5p 提取码: 7e5p
+
+## 2024.10.03更新sequoia  
+OpenCore：1.0.1  
+cpu：3700x  
+主板：ASUS-TUF-Gaming-B450M-Pro-S（华硕重炮手s）  
+显卡：rx560 4g（免驱）  
+固态：铠侠rc20  
+声卡：主板内置  
+网卡：intel wifi6 ax200 160MHz  (wifi搭配HeliPort,稳定不掉线)  
+仿冒机型：iMacPro1,1  
+系统: Sonoma 15.1  
+使用情况: wifi、蓝牙正常、完美睡眠、唤醒、未做usb定制; 已知bug: 地图定位不可用  
+sequoia_EFI链接: 链接: https://pan.baidu.com/s/1xyRnme0EroXqTw8egzKsIg?pwd=fzbw 提取码: fzbw
